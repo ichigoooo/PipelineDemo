@@ -1,0 +1,18 @@
+[project]
+name = "motion-qc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai>=2.24.0",
+    "rich>=14.3.3",
+]
+
+[project.scripts]
+motion-qc = "motion_qc:main"
+
+[build-system]
+requires = ["uv_build>=0.9.3,<0.10.0"]
+build-backend = "uv_build"

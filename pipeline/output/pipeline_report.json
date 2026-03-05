@@ -1,0 +1,65 @@
+[
+  {
+    "video_name": "10.热身指导 - 跑步训练.mp4",
+    "verdict_l1": "pass",
+    "verdict_l2": "single",
+    "n_segments": 0,
+    "n_clips_pass_l4": 0,
+    "n_clips_pass_l5": 0,
+    "clips_pass": [],
+    "clips_fail_l4": [],
+    "vlm_results": [],
+    "error": null
+  },
+  {
+    "video_name": "17.步幅训练：练习 - 跑步训练.mp4",
+    "verdict_l1": "pass",
+    "verdict_l2": "single",
+    "n_segments": 0,
+    "n_clips_pass_l4": 0,
+    "n_clips_pass_l5": 0,
+    "clips_pass": [],
+    "clips_fail_l4": [],
+    "vlm_results": [],
+    "error": null
+  },
+  {
+    "video_name": "19.跑步时的姿势 - 跑步训练.mp4",
+    "verdict_l1": "pass",
+    "verdict_l2": "single",
+    "n_segments": 2,
+    "n_clips_pass_l4": 2,
+    "n_clips_pass_l5": 2,
+    "clips_pass": [
+      "pipeline/output/clips/19.跑步时的姿势 - 跑步训练/19.跑步时的姿势 - 跑步训练_000.mp4",
+      "pipeline/output/clips/19.跑步时的姿势 - 跑步训练/19.跑步时的姿势 - 跑步训练_001.mp4"
+    ],
+    "clips_fail_l4": [],
+    "vlm_results": [],
+    "error": null
+  },
+  {
+    "video_name": "22.增加训练时长 - 跑步训练.mp4",
+    "verdict_l1": "pass",
+    "verdict_l2": "single",
+    "n_segments": 0,
+    "n_clips_pass_l4": 0,
+    "n_clips_pass_l5": 0,
+    "clips_pass": [],
+    "clips_fail_l4": [],
+    "vlm_results": [],
+    "error": null
+  },
+  {
+    "video_name": "26.间隔跑训练 - 跑步训练.mp4",
+    "verdict_l1": "pass",
+    "verdict_l2": "single",
+    "n_segments": 0,
+    "n_clips_pass_l4": 0,
+    "n_clips_pass_l5": 0,
+    "clips_pass": [],
+    "clips_fail_l4": [],
+    "vlm_results": [],
+    "error": null
+  }
+]
